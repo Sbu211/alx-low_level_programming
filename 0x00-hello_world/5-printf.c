@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+
+/**
+ * main - prints strings
+ * with a new line
+ * Return: 0
+ */
+
+int main(void)
+{
+	/*print a string to stdout */
+	printf("with proper grammer, but the outcome is a piece of art,\n");
+	return (0);
+}
