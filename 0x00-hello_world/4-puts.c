@@ -3,8 +3,8 @@
 
 
 /**
- *main function prints string with new line
- * Returns 0
+ *main-function prints string with new line
+ * Returns: 0
  */
 
 int main(void)
