@@ -11,6 +11,7 @@ int main(void)
 	int intType;
 	float floatType;
 	long long int doubleType;
+	long int longType;
 	char charType;
 
 
