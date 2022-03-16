@@ -6,11 +6,6 @@
  *
  * Description: Prints alphabets in lower case
  *
- *
- * print_alphabet_x10 - name of the function
- *
- * Description:Prints the alphabet 1x timess
- *
  * Returns: Nothing
  */
 
@@ -23,8 +18,19 @@ void print_alphabet(void)
 }
 
 
+
+/**
+ * print_alphabet_x10 - name of the function
+ *
+ * Description: Prints alphabet 10 x
+ *
+ * Returns: Nothing
+ */
+
 void print_alphabet_x10(void)
+
 {
+
 	int i;
 
 	for (i = 0; i < 10; i++)
