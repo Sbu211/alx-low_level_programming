@@ -8,6 +8,15 @@
  * Returns: Nothing
  */
 
+
+
+void print_alphabet(void)
+{
+	printf("abcdefghijklmnopqrstuvwxyz\n");
+
+}
+
+
 void print_alphabet_x10(void)
 {
 	int i;
