@@ -5,7 +5,7 @@
  * @a: integer a
  * @b: integer b
  * Description: Adds two intergers together
- * Results: sum
+ * Return: added value of a and b
  */
 
 int add(int a, int b)
