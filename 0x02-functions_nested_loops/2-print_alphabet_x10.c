@@ -1,23 +1,18 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "main.h"
 
-
 /**
- * void print_alphabet_x10(void)
+ * print_alphabet_x10 - name of the function
  *
- *Description:The fucntion prints the alphabet 10 times
+ * Description:Prints the alphabet 1x timess
+ *
+ * Returns: Nothing
  */
 
-
 void print_alphabet_x10(void)
+{
+	int i;
 
-{	int i;
+	for (i = 0; i < 10; i++)
 
-	while (i < 10)
-	{
-		printf("abcdefghijklmnopqrstuvwxyz\n");
-		i++;
-	}
-
+		print_alphabet();
 }
